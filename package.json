@@ -14,5 +14,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apollo-def/clinica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Apollo-def/clinica/issues"
+  },
+  "homepage": "https://github.com/Apollo-def/clinica#readme"
 }
